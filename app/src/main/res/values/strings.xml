@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdroidPagingLib</string>
+    <string name="population_string">Population</string>
+    <string name="country_name_string">Country Name</string>
+</resources>
